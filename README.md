@@ -1,12 +1,15 @@
 Sean Warren
+
 12/3/2014
 
 ======================================
-Query the keyboard
-if a letter or one of the symbols from the number row over the letters is pressed: blink the ok LED 4 times rapidly (4 'dots' to use the tutorial's terminology)
-if one of the 8 special keys are pressed, blink the ok LED 3 times slowly (3 dashes)
-if both of the above are pressed, blink 4 dots followed by 3 dashes
-if any other key is pressed, blink dash-dot-dash-dot-dash-dot.
+# Query the keyboard
+1. if a letter or one of the symbols from the number row over the letters is pressed: blink the ok LED 4 times rapidly (4 'dots' to use the tutorial's terminology)
+2. if one of the 8 special keys are pressed, blink the ok LED 3 times slowly (3 dashes)
+3. if both of the above are pressed, blink 4 dots followed by 3 dashes
+4. if any other key is pressed, blink dash-dot-dash-dot-dash-dot.
+
+
 ======================================
 
 To build my project I used this Build Command
